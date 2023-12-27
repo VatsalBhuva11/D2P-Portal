@@ -4,23 +4,11 @@ Welcome to D2P-Portal, a revolutionary platform designed to facilitate convenien
 
 View the links to the frontend, backend, and the ML model of our project:
 
-Frontend:
+Frontend: [https://github.com/VatsalBhuva11/hackout-frontend](https://github.com/VatsalBhuva11/hackout-frontend)
 
-```
-https://github.com/VatsalBhuva11/hackout-frontend
-```
+Backend: [https://github.com/VatsalBhuva11/hackout-backend](https://github.com/VatsalBhuva11/hackout-backend)
 
-Backend:
-
-```
-https://github.com/VatsalBhuva11/hackout-backend
-```
-
-ML-Model:
-
-```
-https://github.com/VatsalBhuva11/hackout-ML-model
-```
+ML-Model: [https://github.com/VatsalBhuva11/hackout-ML-model](https://github.com/VatsalBhuva11/hackout-ML-model)
 
 ## Features
 
